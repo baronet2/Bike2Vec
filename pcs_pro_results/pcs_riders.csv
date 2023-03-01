@@ -868,19 +868,21 @@
 189,timothy-dupont,DUPONT Timothy,BE
 190,michael-goolaerts,GOOLAERTS Michael,BE
 192,guy-sagiv,SAGIV Guy,IL
+109,remy-mertz,MERTZ Rémy,BE
+158,benjamin-declercq,DECLERCQ Benjamin,BE
+159,piet-allegaert,ALLEGAERT Piet,BE
+164,jimmy-duquennoy,DUQUENNOY Jimmy,BE
+166,ludovic-robeet,ROBEET Ludovic,BE
+167,christophe-masson,MASSON Christophe,FR
 73,andrea-pasqualon,PASQUALON Andrea,IT
-110,christophe-masson,MASSON Christophe,FR
 135,filippo-ganna,GANNA Filippo,IT
 158,jonathan-dibben,DIBBEN Jonathan,GB
-167,jimmy-duquennoy,DUQUENNOY Jimmy,BE
 62,alex-turrin,TURRIN Alex,IT
 87,dion-smith,SMITH Dion,NZ
 135,liam-bertazzo,BERTAZZO Liam,IT
 159,zhandos-bizhigitov,BIZHIGITOV Zhandos,KZ
 195,meiyin-wang,WANG Meiyin,CN
-16,piet-allegaert,ALLEGAERT Piet,BE
 153,ryan-gibbons,GIBBONS Ryan,ZA
-173,benjamin-declercq,DECLERCQ Benjamin,BE
 191,romain-lemarchand,LEMARCHAND Romain,FR
 50,xandro-meurisse,MEURISSE Xandro,BE
 58,jonathan-hivert,HIVERT Jonathan,FR
@@ -894,7 +896,6 @@
 132,frantisek-sisr,SISR František,CZ
 133,paul-ourselin,OURSELIN Paul,FR
 148,gregory-daniel,DANIEL Gregory,US
-175,remy-mertz,MERTZ Rémy,BE
 180,vincenzo-albanese,ALBANESE Vincenzo,IT
 182,marco-maronese,MARONESE Marco,IT
 187,yukiya-arashiro,ARASHIRO Yukiya,JP
@@ -911,7 +912,6 @@
 183,ruben-pols,POLS Ruben,BE
 187,fabien-doubey,DOUBEY Fabien,FR
 196,daniel-pearson,PEARSON Daniel,GB
-181,ludovic-robeet,ROBEET Ludovic,BE
 192,etienne-van-empel,VAN EMPEL Etienne,NL
 83,yousef-mohamed-mirza,MIRZA Yousif,AE
 93,daan-olivier,OLIVIER Daan,NL
@@ -999,11 +999,12 @@
 135,sam-brand,BRAND Sam,GB
 146,nikolay-cherkasov,CHERKASOV Nikolay,RU
 163,evgeny-kobernyak,KOBERNYAK Evgeny,RU
-11,jan-willem-van-schip,VAN SCHIP Jan-Willem,NL
-56,jeremy-lecroq,LECROQ Jérémy,FR
+67,tanguy-turgis,TURGIS Tanguy,FR
+138,kristoffer-halvorsen,HALVORSEN Kristoffer,NO
+160,jan-willem-van-schip,VAN SCHIP Jan-Willem,NL
+172,jeremy-lecroq,LECROQ Jérémy,FR
+173,adrien-garel,GAREL Adrien,FR
 62,christophe-noppe,NOPPE Christophe,BE
-108,tanguy-turgis,TURGIS Tanguy,FR
-122,kristoffer-halvorsen,HALVORSEN Kristoffer,NO
 162,jordi-warlop,WARLOP Jordi,BE
 88,milan-menten,MENTEN Milan,BE
 89,casper-pedersen,PEDERSEN Casper,DK
@@ -1016,7 +1017,6 @@
 169,brenton-jones,JONES Brenton,AU
 172,przemyslaw-kasperkiewicz,KASPERKIEWICZ Przemysław,PL
 173,corentin-ermenault,ERMENAULT Corentin,FR
-174,adrien-garel,GAREL Adrien,FR
 47,benoit-cosnefroy,COSNEFROY Benoît,FR
 81,edward-irl-dunbar,DUNBAR Eddie,IE
 96,scott-davies,DAVIES Scott,GB
@@ -1145,9 +1145,10 @@
 146,thimo-willems,WILLEMS Thimo,BE
 162,rasmus-byriel-iversen,IVERSEN Rasmus,DK
 164,clement-carisey,CARISEY Clément,FR
+151,lindsay-de-vylder,DE VYLDER Lindsay,BE
+152,emiel-planckaert,PLANCKAERT Emiel,BE
 3,mathieu-van-der-poel,VAN DER POEL Mathieu,NL
 27,gianni-vermeersch,VERMEERSCH Gianni,BE
-136,emiel-planckaert,PLANCKAERT Emiel,BE
 100,alan-riou,RIOU Alan,FR
 107,joseph-areruya,ARERUYA Joseph,RW
 113,philipp-walsleben,WALSLEBEN Philipp,DE
@@ -1296,7 +1297,6 @@
 98,thymen-arensman,ARENSMAN Thymen,NL
 115,stephen-williams,WILLIAMS Stephen,GB
 126,eddy-fine,FINÉ Eddy,FR
-139,lindsay-de-vylder,DE VYLDER Lindsay,BE
 140,ian-garrison,GARRISON Ian,US
 147,barnabas-peak,PEÁK Barnabás,HU
 148,cristian-munoz,MUÑOZ Cristian Camilo,CO
@@ -1380,13 +1380,13 @@
 163,frederik-rodenberg,RODENBERG Frederik,DK
 164,anders-skaarseth,SKAARSETH Anders,NO
 171,niklas-larsen,LARSEN Niklas,DK
+7,markus-hoelgaard,HOELGAARD Markus,NO
+58,jonas-iversby-hvideberg,HVIDEBERG Jonas Iversby,NO
+79,ward-vanhoof,VANHOOF Ward,BE
+148,tom-paquot,PAQUOT Tom,BE
 153,daniel-arroyave-canas,ARROYAVE Daniel,CO
 154,jordi-meeus,MEEUS Jordi,BE
-157,ward-vanhoof,VANHOOF Ward,BE
-153,tom-paquot,PAQUOT Tom,BE
-18,markus-hoelgaard,HOELGAARD Markus,NO
 67,jonas-abrahamsen,ABRAHAMSEN Jonas,NO
-87,jonas-iversby-hvideberg,HVIDEBERG Jonas Iversby,NO
 117,rune-herregodts,HERREGODTS Rune,BE
 119,martin-urianstad,URIANSTAD Martin,NO
 150,iver-skaarseth,SKAARSETH Iver,NO
@@ -1494,14 +1494,15 @@
 145,lars-saugstad,SAUGSTAD Lars,NO
 156,tim-van-dijke,VAN DIJKE Tim,NL
 161,william-blume-levy,BLUME LEVY William,DK
-84,antoine-raugel,RAUGEL Antoine,FR
-102,vito-braet,BRAET Vito,BE
 40,victor-koretzky,KORETZKY Victor,FR
+89,hugo-page,PAGE Hugo,FR
+111,antoine-raugel,RAUGEL Antoine,FR
+143,kim-heiduk,HEIDUK Kim,DE
+144,jenno-berckmoes,BERCKMOES Jenno,BE
+102,vito-braet,BRAET Vito,BE
 104,mick-van-dijke,VAN DIJKE Mick,NL
 140,tord-gudmestad,GUDMESTAD Tord,NO
-143,kim-heiduk,HEIDUK Kim,DE
 54,stan-van-tricht,VAN TRICHT Stan,BE
-61,jenno-berckmoes,BERCKMOES Jenno,BE
 77,cian-uijtdebroeks,UIJTDEBROEKS Cian,BE
 97,filippo-baroncini,BARONCINI Filippo,IT
 106,johan-meens,MEENS Johan,BE
@@ -1549,21 +1550,20 @@
 123,marc-brustenga-masague,BRUSTENGA Marc,ES
 1,axel-laurance,LAURANCE Axel,FR
 9,andrea-piccolo,PICCOLO Andrea,IT
-58,hugo-page,PAGE Hugo,FR
-150,valentin-retailleau,RETAILLEAU Valentin,FR
+163,valentin-retailleau,RETAILLEAU Valentin,FR
 48,louis-barre,BARRÉ Louis,FR
 98,hugo-toumire,TOUMIRE Hugo,FR
-122,carson-miles,MILES Carson,CA
-125,thomas-schellenberg,SCHELLENBERG Thomas,CA
-134,quentin-cowan,COWAN Quentin,CA
-141,nicolas-cote,CÔTÉ Nicolas,CA
-146,nicolas-rivard,RIVARD Nicolas,CA
+120,nicolas-rivard,RIVARD Nicolas,CA
+124,carson-miles,MILES Carson,CA
+127,thomas-schellenberg,SCHELLENBERG Thomas,CA
+136,quentin-cowan,COWAN Quentin,CA
+143,nicolas-cote,CÔTÉ Nicolas,CA
 54,alessandro-fancellu,FANCELLU Alessandro,IT
 87,santiago-umba,UMBA Santiago,CO
-119,natnael-tesfatsion,TESFATSION Natnael,ER
-131,sean-quinn,QUINN Sean,US
-144,sergio-martin,MARTÍN Sergio Roman,ES
-159,henok-mulubrhan,MULUBRHAN Henok,ER
+128,natnael-tesfatsion,TESFATSION Natnael,ER
+140,sean-quinn,QUINN Sean,US
+152,sergio-martin,MARTÍN Sergio Roman,ES
+168,henok-mulubrhan,MULUBRHAN Henok,ER
 7,steele-von-hoff,VON HOFF Steele,AU
 19,anthony-giacoppo,GIACOPPO Anthony,AU
 29,patrick-shaw,SHAW Patrick,AU
